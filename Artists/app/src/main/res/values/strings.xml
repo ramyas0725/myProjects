@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Artists</string>
+    <string name="enter_artist_name">Enter Artist Name</string>
+</resources>
