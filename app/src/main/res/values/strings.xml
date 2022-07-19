@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherLookup</string>
+    <string name="feels_like_temp">Feels Like: 78</string>
+    <string name="main">Clouds</string>
+    <string name="temperature">72</string>
+    <string name="description">broken clouds</string>
+</resources>
